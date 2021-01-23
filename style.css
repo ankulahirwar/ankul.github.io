@@ -1,0 +1,69 @@
+
+
+
+
+
+
+
+
+*{
+font-family:'popins',sans-serif;
+
+}
+
+
+#rot{
+
+width:80px;
+height:80px;
+display:block;
+margin-top:-50px;
+
+
+}
+
+#rot:hover{
+transition:0.70s;
+transform:rotate(45deg);
+
+}
+.fas,.far,.fab{
+font-size:20px;
+margin-top:15px;
+margin-right:15px;
+color:red;
+}
+
+#Ias:hover{
+box-shadow: 10px 10px 10px 10px grey;
+
+
+}
+
+    .mar{
+        margin:75% 0;
+      }
+    
+    .parallax{
+    background:url(slides/slide1.jpg)
+    repeat fixed 100%;
+    
+    }
+    
+    .parallax-inner{
+    
+        padding-top:30%;
+        padding-bottom:30%;
+    
+    }
+
+
+    .shad:hover{
+    
+    
+    box-shadow: 2px 2px px 2px grey;
+    }
+    
+    .nameColor:hover{
+      color:red;
+    }
